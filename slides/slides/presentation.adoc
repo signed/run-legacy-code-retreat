@@ -1,0 +1,16 @@
+:icons: font
+:linkattrs:
+:slides: .
+:imagedir: ../images
+= Legacy Code Retreat
+
+include::{slides}/today.adoc[]
+
+== !
+That's it! +
+
+[%notitle]
+== Melting Pot
+image::{imagedir}/bumper.jpg[canvas,size=contain]
+include::{slides}/melting_pot.adoc[]
+
