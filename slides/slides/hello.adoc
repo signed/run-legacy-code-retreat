@@ -1,0 +1,5 @@
+== Safety net anyone?
+
+- Understand what the code does
+- Write first tests
+- Build a safety net before making any code changes

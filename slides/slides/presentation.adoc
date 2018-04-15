@@ -6,6 +6,10 @@
 
 include::{slides}/today.adoc[]
 
+include::{slides}/hello.adoc[]
+
+include::{slides}/goldenmaster.adoc[]
+
 == !
 That's it! +
 

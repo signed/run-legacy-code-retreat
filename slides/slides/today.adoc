@@ -1,4 +1,25 @@
 
 == Introduction
+* run 5 to 6 sessions
+* a session consists of
+** Introduction of a technique
+** ~45min of pair programming
+** ~10min retrospective with the whole group
+** ~5min break
+* Retrospective over the whole day
 
-=== 1st steps
+=== Legacy Code Retreat
+
+- keep your end to end characterization test
+
+[NOTE.speaker]
+--
+* Who has been on a code retreat?
+* Who knows what legacy code is?
+--
+=== Goal of Today
+
+Whatever you do, do what you don't normally do!
+
+=== Setup
+https://github.com/jbrains/trivia

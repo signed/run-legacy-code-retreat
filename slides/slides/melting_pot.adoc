@@ -1,4 +1,31 @@
+=== Constraints
 
-=== Interesting but without a place yet
+For the last two iterations of the day, ask people to switch pairs before the last iteration, but let them keep their changes and continue working from that point.
+http://legacycoderetreat.typepad.com/blog/2011/11/how-i-run-legacy-code-retreat.html
 
-=== Go get Some
+=== Characterization test
+
+- setting up a safety net
+- only focus on inputs and outputs
+- do not make changes to the production code
+
+==== Hand written System Tests
+
+==== Golden Master Tests
+
+=== Want more?
+
+http://blog.adrianbolboaca.ro/2014/04/legacy-coderetreat/[Adrian Bolboaca] 16 exercises on legacy code
+
+https://github.com/sandromancuso/trip-service-kata[Trip Service Kata^] by https://twitter.com/sandromancuso[Sandro Mancuso^] with 80 min commentary walkthrough refactorings.
+
+
+Refactoring golf code bases
+https://github.com/daviddenton/refactoring-golf
+https://github.com/snahider/Refactoring-Golf
+
+https://github.com/emilybache/GildedRose-Refactoring-Kata
+
+[%notitle]
+=== The Great Goat
+image::https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg[canvas,size=contain]

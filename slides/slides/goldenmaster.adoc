@@ -1,0 +1,21 @@
+
+
+== Goldenmaster
+https://encrypted.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiI3v_D27raAhUQCewKHQFHD5YQjRx6BAgAEAU&url=https%3A%2F%2Fvinyl-pressing-plants.com%2F&psig=AOvVaw28QB2s25eqK1M7hyB_JPsG&ust=1523827912677245
+
+General idea:
+
+take know input, run it through a function
+
+
+java:
+https://github.com/almondtools/testrecorder
+https://github.com/almondtools/testrecorder-examples
+
+
+
+https://codeclimate.com/blog/gold-master-testing/
+https://hashrocket.com/blog/posts/gold-master-testing
+
+=== When to use?
+- Mature systems that do not change that often anymore
