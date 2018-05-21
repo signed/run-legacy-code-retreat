@@ -8,6 +8,9 @@
 * https://dzone.com/articles/legacy-code-retreat
 * https://www.slideshare.net/gabriele.lana/milano-legacy-coderetreat-2013
 
+## Not Sure
+* http://codecleane.rs/2016/09/30/refactoring-legacy-code-in-practice-iteration-2-building-a-golden-master/
+
 # https://github.com/testdouble/contributing-tests/wiki/Refactoring-Legacy-code-with-tests
 - looks interesting
 
