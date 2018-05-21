@@ -43,3 +43,7 @@ This term was coined by Michael Feathers.
 ____
 To me, legacy code is simply code without tests.
 ____
+
+=== Quotes
+
+https://twitter.com/kentbeck/status/250733358307500032?lang=en

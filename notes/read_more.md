@@ -1,3 +1,12 @@
+# Previous Retreats
+## Bretten
+* http://legacycoderetreat.typepad.com/blog/2012/02/andreas-leidig-had-run-a-legacy-code-retreat-in-germany-recently-and-written-about-the-experience-at-httppboopwordpressc.html
+* https://pboop.wordpress.com/2012/02/19/how-we-ran-our-legacy-code-retreat/
+* http://blog.florian-hopf.de/2012/02/legacy-code-retreat.html
+
+## Milano
+https://dzone.com/articles/legacy-code-retreat
+
 # https://github.com/testdouble/contributing-tests/wiki/Refactoring-Legacy-code-with-tests
 - looks interesting
 
