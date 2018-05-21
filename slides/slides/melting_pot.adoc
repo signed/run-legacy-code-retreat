@@ -29,3 +29,17 @@ https://github.com/emilybache/GildedRose-Refactoring-Kata
 [%notitle]
 === The Great Goat
 image::https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg[canvas,size=contain]
+
+
+=== Definitions
+
+Legacy Code:: https://en.wikipedia.org/wiki/Legacy_code
+
+Characterization tests:: https://en.wikipedia.org/wiki/Characterization_test n computer programming, a characterization test is a means to describe (characterize) the actual behavior of an existing piece of software, and therefore protect existing behavior of legacy code against unintended changes via automated testing.
+This term was coined by Michael Feathers.
+
+=== Legacy Code
+[quote, Michael Feathers, 'Working Effectively with Legacy Code']
+____
+To me, legacy code is simply code without tests.
+____
