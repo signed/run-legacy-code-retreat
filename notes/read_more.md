@@ -5,7 +5,8 @@
 * http://blog.florian-hopf.de/2012/02/legacy-code-retreat.html
 
 ## Milano
-https://dzone.com/articles/legacy-code-retreat
+* https://dzone.com/articles/legacy-code-retreat
+* https://www.slideshare.net/gabriele.lana/milano-legacy-coderetreat-2013
 
 # https://github.com/testdouble/contributing-tests/wiki/Refactoring-Legacy-code-with-tests
 - looks interesting
