@@ -1,5 +1,14 @@
 
-== Introduction
+== The goals of the day
+
+* experiment
+* deliberate practice
+* learn from each other
+
+* Better introduce the exercises
+*
+
+=== How will the day look like
 * run 5 to 6 sessions
 * a session consists of
 ** Introduction of a technique

@@ -17,5 +17,17 @@ https://github.com/almondtools/testrecorder-examples
 https://codeclimate.com/blog/gold-master-testing/
 https://hashrocket.com/blog/posts/gold-master-testing
 
+== Potential Testing Seams
+* Logging
+* Events
+* Database
+*
+
+Maybe you need to make small changes to open those seems (be careful)
+
 === When to use?
 - Mature systems that do not change that often anymore
+- If you have output you can check (Test seams)
+- Any output you can diff
+
+Its a safety net, not a parachute.
