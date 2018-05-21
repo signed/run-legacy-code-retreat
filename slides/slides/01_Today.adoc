@@ -32,3 +32,9 @@ Whatever you do, do what you don't normally do!
 
 === Setup
 https://github.com/jbrains/trivia
+
+=== General rules while working with legacy code
+- use version control
+- make small commits
+- run your tests as often as you can
+-

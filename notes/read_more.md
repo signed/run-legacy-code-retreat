@@ -4,7 +4,7 @@
 * https://pboop.wordpress.com/2012/02/19/how-we-ran-our-legacy-code-retreat/
 * http://blog.florian-hopf.de/2012/02/legacy-code-retreat.html
 
-## Milano
+## Milan
 * https://dzone.com/articles/legacy-code-retreat
 * https://www.slideshare.net/gabriele.lana/milano-legacy-coderetreat-2013
 
