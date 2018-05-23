@@ -5,16 +5,14 @@
    Some thoughts on how to run a legacy code retreat
 
 # What is important when working with legacy code
-
+1. Every change needs a Why and a stopping point
+1. Focus on on thing at the time
 1. Reading Code
    1. Active code reading (rename )
 1. Executing Code
 1. Get test coverage
 1. Refactoring
-   1. Mikado method https://mikadomethod.wordpress.com/
-   
+   1. Mikado method https://mikadomethod.wordpress.com/   
 1. Take small steps
 1. Run your tests
 1. Commit often 
-
-# Isolate 
