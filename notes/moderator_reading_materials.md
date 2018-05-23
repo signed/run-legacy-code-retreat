@@ -8,7 +8,11 @@
 
 1. Reading Code
    1. Active code reading (rename )
-2. Executing Code
-3. Get test coverage
-4. Refactoring
+1. Executing Code
+1. Get test coverage
+1. Refactoring
    1. Mikado method https://mikadomethod.wordpress.com/
+   
+1. Take small steps
+1. Run your tests
+1. Commit often   
