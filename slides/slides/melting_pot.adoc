@@ -52,4 +52,7 @@ ____
 
 === Quotes
 
-https://twitter.com/kentbeck/status/250733358307500032?lang=en
+[quote, Kent Beck, 'https://twitter.com/kentbeck/status/250733358307500032?lang=en']
+____
+for each desired change, make the change easy (warning: this may be hard), then make the easy change
+____

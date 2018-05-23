@@ -2,6 +2,9 @@
 2. inversion of Control (http://blog.adrianbolboaca.ro/2014/12/dependency-inversion/)
    Introduce Display/Console
    
+3. Add a feature
+   - Which one
+   
 - Make the sessions independent form each other
 - Find and overarching goal (fix a bug, add a feature) and compare different techniques how they help to achieve this goal.   
    

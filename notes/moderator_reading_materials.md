@@ -15,4 +15,6 @@
    
 1. Take small steps
 1. Run your tests
-1. Commit often   
+1. Commit often 
+
+# Isolate 
