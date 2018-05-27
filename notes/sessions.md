@@ -1,5 +1,6 @@
 - Make the sessions independent form each other
-- Find and overarching goal (fix a bug, add a feature) and compare different techniques how they help to achieve this goal.   
+- Find and overarching goal (fix a bug, add a feature) and compare different techniques how they help to achieve this goal.
+- Provide a Why/Motivation/Business Goal for each iteration   
 
 
 = Idea One

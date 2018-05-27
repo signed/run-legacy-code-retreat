@@ -17,3 +17,4 @@
 1. Take small steps
 1. Run your tests
 1. Commit often 
+1. Make sure that your test are failing in the way you expect them to
