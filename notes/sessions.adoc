@@ -63,6 +63,10 @@ https://cubscouts.org/wp-content/uploads/2015/04/Earth-Day-Scouts11.jpg
 - http://blog.adrianbolboaca.ro/2015/02/refactoring-rule-of-three/
 - Make the code you think is duplication look similar to validate that is actually the same code
 
+
+=== Zero to System Tests
+- Sandro: use the shortest flow through the methods for you first test, 2nd longest flow , ... Last on should be the deepest, because it needs the most data to setup
+
 == Idea One
 1. Goldenmaster
 2. Fix a bug
