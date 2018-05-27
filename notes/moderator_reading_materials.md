@@ -34,3 +34,6 @@ Structure changes vs. Functional changes
 
 
 git reset HEAD --hard
+
+
+static dependencies are the problem, meaning we can not exchange them in our tests

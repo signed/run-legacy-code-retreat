@@ -4,6 +4,12 @@
 
 
 
+= Personal Preference for resolving static dependencies
+1. dependency Injection
+   1. Constructor / passed to the method under test
+   1. setters 
+1. Extend and override
+
 = Sessions
 
 == Goldenmaster
