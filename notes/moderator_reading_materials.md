@@ -18,3 +18,19 @@
 1. Run your tests
 1. Commit often 
 1. Make sure that your test are failing in the way you expect them to
+1. Use automated refactorings where possible
+   1. Know their limitations/quirks/bugs
+1. Get your dependencies under control
+   1. Dependency inversion
+   1. Dependency injection
+   1. Extract and override
+   1. Power Mocking tools
+
+Structure changes vs. Functional changes
+
+
+* characterization tests to understand the system and documenting it with automated tests.
+* system tests
+
+
+git reset HEAD --hard
