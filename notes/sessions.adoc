@@ -46,6 +46,7 @@
   - modules
   - ...
 - http://blog.adrianbolboaca.ro/2015/02/refactoring-rule-of-three/
+- Make the code you think is duplication look similar to validate that is actually the same code
 
 = Idea One
 1. Goldenmaster

@@ -52,3 +52,9 @@ https://github.com/jbrains/trivia
 - new code is developed test first
 - existing code is only changed if covered by a test
 - untestable code can be adapted using as little changes as possible to make it testable (high risk)
+
+
+== Why change legacy code
+
+http://blog.adrianbolboaca.ro/2015/02/extract-class/
+When touching the legacy code we need to focus on our purpose: add a feature, fix a bug or make the system testable.
