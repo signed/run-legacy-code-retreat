@@ -36,7 +36,16 @@
 - same arguments -> same result
 
 == Spot duplication
-- ?
+- The rule of three says that it is a good idea to extract these elements, with the purpose to minimize the duplication, only when you spot them three times.
+- duplication can be found in
+  - magic constants
+  - variables
+  - code blocks
+  - methods
+  - classes
+  - modules
+  - ...
+- http://blog.adrianbolboaca.ro/2015/02/refactoring-rule-of-three/
 
 = Idea One
 1. Goldenmaster
