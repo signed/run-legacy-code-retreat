@@ -35,17 +35,28 @@
 - extract functions that do not have side effects
 - same arguments -> same result
 
-== Spot duplication
-- The rule of three says that it is a good idea to extract these elements, with the purpose to minimize the duplication, only when you spot them three times.
-- duplication can be found in
-  - magic constants
-  - variables
-  - code blocks
-  - methods
-  - classes
-  - modules
-  - names
-  - ...
+
+== The Boy Scout Rule
+https://www.informit.com/articles/article.aspx?p=1235624&seqNum=6
+
+* Spot duplication
+** The rule of three says that it is a good idea to extract these elements, with the purpose to minimize the duplication, only when you spot them three times.
+*** duplication can be found in
+*** magic constants
+*** variables
+*** code blocks
+*** methods
+*** classes
+*** modules
+*** names
+*** ...
+* Simplify boolean expressions
+** http://blog.adrianbolboaca.ro/2015/05/explain-variable/ 
+* Simplify conditionals
+** Refactor Conditionals by Decomposing Conditional
+** Guard Clauses
+
+
 - http://blog.adrianbolboaca.ro/2015/02/refactoring-rule-of-three/
 - Make the code you think is duplication look similar to validate that is actually the same code
 
