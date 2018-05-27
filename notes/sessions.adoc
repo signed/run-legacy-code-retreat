@@ -58,6 +58,7 @@ https://cubscouts.org/wp-content/uploads/2015/04/Earth-Day-Scouts11.jpg
 ** Refactor Conditionals by Decomposing Conditional
 ** Guard Clauses
 * extract methods with good names
+* Get rid of or at least reduce the visible scope of local variables in methods
 
 
 - http://blog.adrianbolboaca.ro/2015/02/refactoring-rule-of-three/
