@@ -43,3 +43,5 @@ adding black box system tests to create a safety net -> characterization tests -
 
 make the code testable
 -> pure functions
+
+Blackbox sessions -> Whitebox sessions

@@ -42,3 +42,7 @@ https://github.com/jbrains/trivia
 - code not covered by tests -> no manual changes
 - not possible to cover -> automated refactorings to open a test seam
 - all new code you write, test first!
+
+== Recommendations
+- At least one person of the pair should know the language
+-
