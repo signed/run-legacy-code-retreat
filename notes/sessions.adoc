@@ -130,3 +130,8 @@ And several bads too, to resolve for the next editions:
 * no theoretical introduction on how to work with the legacy code.
 * Difficulties in using Extract Class, with respect to Extract Method and Extract Field which are local changes.
 * Difficulties in introducing unit-level tests.
+
+
+=== London Codurance
+
+* https://codurance.com/2017/11/05/legacy-code-retreat/
