@@ -7,6 +7,7 @@
 = Personal Preference for resolving static dependencies
 1. dependency Injection
    1. Constructor / passed to the method under test
+   1. pure functions
    1. setters 
 1. Extend and override
 
@@ -28,6 +29,11 @@
 == New Feature: Write game progress to file
 - inversion of Control (http://blog.adrianbolboaca.ro/2014/12/dependency-inversion/)
 - Introduce Display/Console
+
+
+== Pure Functions
+- extract functions that do not have side effects
+- same arguments -> same result
 
 = Idea One
 

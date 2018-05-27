@@ -37,3 +37,9 @@ git reset HEAD --hard
 
 
 static dependencies are the problem, meaning we can not exchange them in our tests
+
+adding black box system tests to create a safety net -> characterization tests -> component tests -> unit tests
+
+
+make the code testable
+-> pure functions

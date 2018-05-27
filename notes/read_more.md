@@ -1,4 +1,15 @@
 # Previous Retreats
+
+## 2nd One
+JB facilitated the event like you could find in [here](http://legacycoderetreat.typepad.com/blog/2011/11/how-i-run-legacy-code-retreat.html), with a lot of details.
+But in short we would start with a
+* free session
+* Golden Masters
+* Subclass to Test
+* Replace Inheritance with Delegation
+* Pure Functions
+After each iteration we deleted the code like in any other coderetreat and swapped the pairs.
+
 ## Bretten
 * http://legacycoderetreat.typepad.com/blog/2012/02/andreas-leidig-had-run-a-legacy-code-retreat-in-germany-recently-and-written-about-the-experience-at-httppboopwordpressc.html
 * https://pboop.wordpress.com/2012/02/19/how-we-ran-our-legacy-code-retreat/
