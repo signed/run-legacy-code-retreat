@@ -1,8 +1,8 @@
+= General Goals
 - Make the sessions independent form each other
 - Find and overarching goal (fix a bug, add a feature) and compare different techniques how they help to achieve this goal.
-- Provide a Why/Motivation/Business Goal for each iteration   
-
-
+- Provide a Why/Motivation/Business Goal for each iteration
+- After each iteration we deleted the code like in any other coderetreat and swapped the pairs.
 
 = Personal Preference for resolving static dependencies
 1. dependency Injection
@@ -35,8 +35,10 @@
 - extract functions that do not have side effects
 - same arguments -> same result
 
-= Idea One
+== Spot duplication
+- ?
 
+= Idea One
 1. Goldenmaster
 2. Fix a bug
    - learning: Goldenmaster tests are a pain to maintain, you need your Domain Experts help to approve changes in the golden master output  
@@ -46,23 +48,44 @@
 =  Idea Two
 1. Start with bug fix
    - Goal: Understand the code
-   - Goal: Write first tests to cover the code
-  
+   - Goal: Write first tests to cover the code  
 2. Goldenmaster
 3. New Feature: Write game progress to file
-      
-   
-# Bretten
+
+
+== Previous legacy code retreats
+
+=== 2nd One
+JB facilitated the event like you could find in [here](http://legacycoderetreat.typepad.com/blog/2011/11/how-i-run-legacy-code-retreat.html), with a lot of details.
+
+==== Sessions 
+* free session
+* Golden Masters
+* Subclass to Test
+* Replace Inheritance with Delegation
+* Pure Functions
+
+
+=== Bretten
+* http://legacycoderetreat.typepad.com/blog/2012/02/andreas-leidig-had-run-a-legacy-code-retreat-in-germany-recently-and-written-about-the-experience-at-httppboopwordpressc.html
+* https://pboop.wordpress.com/2012/02/19/how-we-ran-our-legacy-code-retreat/
+* http://blog.florian-hopf.de/2012/02/legacy-code-retreat.html
+
+==== Sessions
 1. Get to know the code
 2. Goldenmaster
 3. Subclass to test (not that good for trivia)
 4. depends on 3, pass overridden methods as dependencies
 5. Pure functions
 6. ?
-## Feedback
+=== Feedback
 
 
-# Milan
+=== Milan
+* https://dzone.com/articles/legacy-code-retreat
+* https://www.slideshare.net/gabriele.lana/milano-legacy-coderetreat-2013
+
+==== Sessions
 1. Golden Master
 2. Make it easy to add a new category of questions
 3. add unit test for the roll function
@@ -71,7 +94,7 @@
 6. make the introduction of different penalty rules a one-line change (an Open/Closed Principle kata)
 
 
-## Feedback
+==== Feedback
 The final retrospective brought out several goods:
 * good format: each iteration is almost independent.
 * Clearly defined goals.

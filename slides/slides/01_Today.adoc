@@ -46,3 +46,9 @@ https://github.com/jbrains/trivia
 == Recommendations
 - At least one person of the pair should know the language
 -
+
+== The rules
+
+- new code is developed test first
+- existing code is only changed if covered by a test
+- untestable code can be adapted using as little changes as possible to make it testable (high risk)
