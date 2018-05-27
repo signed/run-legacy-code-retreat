@@ -1,23 +1,23 @@
-= General Goals
+== General Goals
 - Make the sessions independent form each other
 - Find and overarching goal (fix a bug, add a feature) and compare different techniques how they help to achieve this goal.
 - Provide a Why/Motivation/Business Goal for each iteration
 - After each iteration we deleted the code like in any other coderetreat and swapped the pairs.
 
-= Personal Preference for resolving static dependencies
-1. dependency Injection
-   1. Constructor / passed to the method under test
-   1. pure functions
-   1. setters 
-1. Extend and override
+== Personal Preference for resolving static dependencies
+. dependency Injection
+.. Constructor / passed to the method under test
+.. pure functions
+.. setters
+. Extend and override
 
-= Sessions
+== Sessions
 
-== Goldenmaster
+=== Goldenmaster
 - focus on the outputs
 - only try to understand as much of the code to be able to run deterministic tests
 - learning: this kind of tests can be setup without deep system / domain knowledge
-== Fix a bug
+=== Fix a bug
 - there are overlaps with (Basic rules of refactoring)
 - corrent -> correct
 - Reproduce with system level test
@@ -26,17 +26,17 @@
 - Adjust failing tests Golden Master ?
 - learning: Goldenmaster tests are a pain to maintain, you need your Domain Experts help to approve changes in the golden master output
       
-== New Feature: Write game progress to file
+=== New Feature: Write game progress to file
 - inversion of Control (http://blog.adrianbolboaca.ro/2014/12/dependency-inversion/)
 - Introduce Display/Console
 
 
-== Pure Functions
+=== Pure Functions
 - extract functions that do not have side effects
 - same arguments -> same result
 
 
-== The Boy Scout Rule
+=== The Boy Scout Rule
 https://www.informit.com/articles/article.aspx?p=1235624&seqNum=6
 
 * Spot duplication
@@ -60,14 +60,14 @@ https://www.informit.com/articles/article.aspx?p=1235624&seqNum=6
 - http://blog.adrianbolboaca.ro/2015/02/refactoring-rule-of-three/
 - Make the code you think is duplication look similar to validate that is actually the same code
 
-= Idea One
+== Idea One
 1. Goldenmaster
 2. Fix a bug
    - learning: Goldenmaster tests are a pain to maintain, you need your Domain Experts help to approve changes in the golden master output  
 3. New Feature: Write game progress to file
    
 
-=  Idea Two
+==  Idea Two
 1. Start with bug fix
    - Goal: Understand the code
    - Goal: Write first tests to cover the code  
