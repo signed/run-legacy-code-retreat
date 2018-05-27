@@ -29,6 +29,7 @@
 === Goal of Today
 
 Whatever you do, do what you don't normally do!
+At least for one Person in the pair.
 
 === Setup
 https://github.com/jbrains/trivia
@@ -58,3 +59,10 @@ https://github.com/jbrains/trivia
 
 http://blog.adrianbolboaca.ro/2015/02/extract-class/
 When touching the legacy code we need to focus on our purpose: add a feature, fix a bug or make the system testable.
+
+== Why Not to change legacy code
+- it looks ugly
+- I would like to see nicer code
+- I want to update to newest framework
+
+!Business case

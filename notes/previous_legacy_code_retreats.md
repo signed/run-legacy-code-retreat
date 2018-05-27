@@ -7,3 +7,6 @@
 
 # https://code.tutsplus.com/tutorials/refactoring-legacy-code-part-1-the-golden-master--cms-20331
 Longer blog post about 
+
+# Budapest 2013
+https://www.slideshare.net/adibolb/20130216-budapest-legacycoderetreat

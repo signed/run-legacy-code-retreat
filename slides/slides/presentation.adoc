@@ -4,11 +4,11 @@
 :imagedir: ../images
 = Legacy Code Retreat
 
-include::{slides}/today.adoc[]
+include::{slides}/01 today.adoc[]
 
-include::{slides}/hello.adoc[]
+include::{slides}/02 hello.adoc[]
 
-include::{slides}/goldenmaster.adoc[]
+include::{slides}/sessions/03 goldenmaster.adoc[]
 
 == !
 That's it! +

@@ -38,6 +38,7 @@
 
 === The Boy Scout Rule
 https://www.informit.com/articles/article.aspx?p=1235624&seqNum=6
+https://cubscouts.org/wp-content/uploads/2015/04/Earth-Day-Scouts11.jpg
 
 * Spot duplication
 ** The rule of three says that it is a good idea to extract these elements, with the purpose to minimize the duplication, only when you spot them three times.
@@ -90,7 +91,7 @@ JB facilitated the event like you could find in [here](http://legacycoderetreat.
 * Pure Functions
 
 
-=== Bretten
+=== Brettencode
 * http://legacycoderetreat.typepad.com/blog/2012/02/andreas-leidig-had-run-a-legacy-code-retreat-in-germany-recently-and-written-about-the-experience-at-httppboopwordpressc.html
 * https://pboop.wordpress.com/2012/02/19/how-we-ran-our-legacy-code-retreat/
 * http://blog.florian-hopf.de/2012/02/legacy-code-retreat.html
