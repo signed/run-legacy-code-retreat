@@ -50,11 +50,13 @@ https://www.informit.com/articles/article.aspx?p=1235624&seqNum=6
 *** modules
 *** names
 *** ...
-* Simplify boolean expressions
-** http://blog.adrianbolboaca.ro/2015/05/explain-variable/ 
+* Simplify boolean expressions using Explain Variable
+** http://blog.adrianbolboaca.ro/2015/05/explain-variable/
+** But before that we need to understand really well what the code does. Misleading code is a lot worse than hard to read code.
 * Simplify conditionals
 ** Refactor Conditionals by Decomposing Conditional
 ** Guard Clauses
+* extract methods with good names
 
 
 - http://blog.adrianbolboaca.ro/2015/02/refactoring-rule-of-three/
