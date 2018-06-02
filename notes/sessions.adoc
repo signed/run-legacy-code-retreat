@@ -13,6 +13,9 @@
 
 == Sessions
 
+=== Code Reading
+https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design[four elements of simple design]
+
 === Goldenmaster
 - focus on the outputs
 - only try to understand as much of the code to be able to run deterministic tests
