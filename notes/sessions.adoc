@@ -33,7 +33,6 @@ https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design[four elemen
 - inversion of Control (http://blog.adrianbolboaca.ro/2014/12/dependency-inversion/)
 - Introduce Display/Console
 
-
 === Pure Functions
 - extract functions that do not have side effects
 - same arguments -> same result
@@ -60,6 +59,7 @@ https://cubscouts.org/wp-content/uploads/2015/04/Earth-Day-Scouts11.jpg
 * Simplify conditionals
 ** Refactor Conditionals by Decomposing Conditional
 ** Guard Clauses
+** No else cases
 * extract methods with good names
 * Get rid of or at least reduce the visible scope of local variables in methods
 
@@ -139,7 +139,14 @@ And several bads too, to resolve for the next editions:
 * Difficulties in using Extract Class, with respect to Extract Method and Extract Field which are local changes.
 * Difficulties in introducing unit-level tests.
 
-
 === London Codurance
-
 * https://codurance.com/2017/11/05/legacy-code-retreat/
+==== Sessions
+1. Understanding the code
+2. Golden Master
+3. Extracting and Renaming pure functions
+4. Simplifying Conditionals
+5. Writing Unit Tests
+6. Introducing a new feature
+==== Feedback
+N/A
