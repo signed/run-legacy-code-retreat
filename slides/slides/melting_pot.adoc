@@ -14,16 +14,9 @@ http://legacycoderetreat.typepad.com/blog/2011/11/how-i-run-legacy-code-retreat.
 ==== Golden Master Tests
 
 === Want more?
-
-http://blog.adrianbolboaca.ro/2014/04/legacy-coderetreat/[Adrian Bolboaca] 16 exercises on legacy code
-
-https://github.com/sandromancuso/trip-service-kata[Trip Service Kata^] by https://twitter.com/sandromancuso[Sandro Mancuso^] with 80 min commentary walkthrough refactorings.
-
-
 Refactoring golf code bases
 https://github.com/daviddenton/refactoring-golf
 https://github.com/snahider/Refactoring-Golf
-
 https://github.com/emilybache/GildedRose-Refactoring-Kata
 
 [%notitle]
@@ -32,7 +25,6 @@ image::https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg[canv
 
 
 === Definitions
-
 Legacy Code:: https://en.wikipedia.org/wiki/Legacy_code
 
 Characterization tests:: https://en.wikipedia.org/wiki/Characterization_test n computer programming, a characterization test is a means to describe (characterize) the actual behavior of an existing piece of software, and therefore protect existing behavior of legacy code against unintended changes via automated testing.

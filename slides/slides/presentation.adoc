@@ -4,14 +4,23 @@
 :imagedir: ../images
 = Legacy Code Retreat
 
-include::{slides}/01 today.adoc[]
+include::{slides}/05 hello.adoc[]
+include::{slides}/10 today.adoc[]
 
-include::{slides}/02 hello.adoc[]
-
+include::{slides}/sessions/01 readthecode.adoc[]
 include::{slides}/sessions/03 goldenmaster.adoc[]
+include::{slides}/sessions/10 Extract Pure Functions.adoc[]
 
-== !
-That's it! +
+include::{slides}/50 lunch.adoc[]
+
+include::{slides}/sessions/14 Refactor Conditionals.adoc
+include::{slides}/sessions/13 Unit Testing on Legacy Code.adoc
+include::{slides}/sessions/05 add a feature.adoc[]
+
+
+include::{slides}/80 closing circle.adoc[]
+
+
 
 [%notitle]
 == Melting Pot

@@ -1,4 +1,3 @@
-
 == The goals of the day
 
 * experiment
@@ -6,19 +5,19 @@
 * learn from each other
 
 * Better introduce the exercises
-*
 
 === How will the day look like
-* run 5 to 6 sessions
+* run 6 sessions
 * a session consists of
-** Introduction of a technique
-** ~45min of pair programming
+** ~5min Introduction of a technique
+** ~40min of pair programming
 ** ~10min retrospective with the whole group
 ** ~5min break
 * Retrospective over the whole day
 
 === Legacy Code Retreat
-
+- Introduced in 2012 by J.B. Rainsberger https://twitter.com/jbrains
+- Session proposals from Adrian Bolboaca http://blog.adrianbolboaca.ro/2014/04/legacy-coderetreat/
 - keep your end to end characterization test
 
 [NOTE.speaker]
