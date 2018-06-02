@@ -3,6 +3,7 @@
 :slides: .
 :imagedir: ../images
 = Legacy Code Retreat
+
 [NOTE.speaker]
 --
 . Welcome everybody
