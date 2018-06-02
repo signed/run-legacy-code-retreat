@@ -18,7 +18,6 @@
 
 === Legacy Code Retreat
 - Like a Code Retreat but with existing code
-- Foc
 - Introduced in 2012 by https://twitter.com/jbrains[J.B. Rainsberger]
 - http://blog.adrianbolboaca.ro/2014/04/legacy-coderetreat/[Session proposals^] from https://twitter.com/adibolb[Adrian Bolboaca^]
 
