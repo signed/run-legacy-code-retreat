@@ -1,11 +1,4 @@
-== Constraints
-
-* new code is developed test first
-* product code not covered by tests -> no manual changes
-* not possible to cover -> automated refactorings to open a test seam
-* untestable code can be adapted using as little changes as possible to make it testable (high risk)
-
-=== Recommendations
+== Recommendations
 
 * At least one person of the pair should know the language
 * Use version control
@@ -13,3 +6,10 @@
 ** focus on one change at the time
 ** run your tests often
 ** make small commits with descriptive commit messages
+
+=== Constraints
+
+* new code is developed test first
+* product code not covered by tests -> no manual changes
+* not possible to cover -> automated refactorings to open a test seam
+* untestable code can be adapted using as little changes as possible to make it testable (high risk)
