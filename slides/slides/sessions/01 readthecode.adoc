@@ -1,2 +1,29 @@
 
 == Understand
+
+* What does the code do?
+
+Where to start?
+
+* Where are the entry points?
+* Focus on the part relevant to your problem.
+
+How to explore?
+
+* Can you get it to run? Use a debugger to step through.
+* What tools does your IDE provide to read code?
+* Explain the code to each other to get a shared understanding.
+* Maybe take notes of interesting, strange or unexpected things you notice.
+
+Active reading
+
+* Add your own comments as you understand more.
+* Write system level test to check your assumptions?
+* Drive by Refactorings aka. Temporary Refactoring (formatting, extract methods)
+
+[NOTE.speaker]
+--
+- How does your pair partner tackle the problem?
+- do not commit changes that you have not covered with test before.
+- http://wiki.c2.com/?TipsForReadingCode[Tips for reading code]
+--
