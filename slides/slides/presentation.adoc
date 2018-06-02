@@ -11,6 +11,8 @@
 --
 
 include::{slides}/10 today.adoc[]
+include::{slides}/30 setup.adoc[]
+include::{slides}/40 constraints.adoc[]
 
 include::{slides}/sessions/01 readthecode.adoc[]
 include::{slides}/sessions/03 goldenmaster.adoc[]

@@ -1,4 +1,4 @@
-== Legacy Code Retreat
+== How does it work?
 - Like a Code Retreat but with existing code
 - Introduced in 2012 by https://twitter.com/jbrains[J.B. Rainsberger]
 - http://blog.adrianbolboaca.ro/2014/04/legacy-coderetreat/[Session proposals^] from https://twitter.com/adibolb[Adrian Bolboaca^]
@@ -6,9 +6,9 @@
 [NOTE.speaker]
 --
 * Who has been on a code retreat?
+** throw away your code at the end of the session
 * Who knows what legacy code is?
-
-- keep your end to end characterization test
+* keep your end to end characterization test
 --
 
 === The goals of the day
@@ -18,7 +18,14 @@
 * experiment, get outside your comfort zone
 * no pressure to get something done
 
+[NOTE.speaker]
+--
+Whatever you do, do what you don't normally do!
+At least for one person in the pair.
+--
+
 === How will the day look like
+
 * run 6 sessions
 * a session consists of
 ** ~5min introduction of a technique/goal
@@ -27,43 +34,8 @@
 ** ~5min break
 * Retrospective over the whole day
 
-=== Goal of Today
-
-Whatever you do, do what you don't normally do!
-At least for one Person in the pair.
-
-=== Setup
-https://github.com/jbrains/trivia
-
-=== General rules while working with legacy code
-- use version control
-- make small commits
-- run your tests as often as you can
--
-
-- code not covered by tests -> no manual changes
-- not possible to cover -> automated refactorings to open a test seam
-- all new code you write, test first!
-
-== Recommendations
-- At least one person of the pair should know the language
--
-
-== The rules
-
-- new code is developed test first
-- existing code is only changed if covered by a test
-- untestable code can be adapted using as little changes as possible to make it testable (high risk)
-
-
-== Why change legacy code
-
-http://blog.adrianbolboaca.ro/2015/02/extract-class/
-When touching the legacy code we need to focus on our purpose: add a feature, fix a bug or make the system testable.
-
-== Why Not to change legacy code
-- it looks ugly
-- I would like to see nicer code
-- I want to update to newest framework
-
-!Business case
+[NOTE.speaker]
+--
+* who has experience with pair programming?
+* who knows what the idea behind pair programming is?
+--

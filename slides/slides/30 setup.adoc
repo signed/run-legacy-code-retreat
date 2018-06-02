@@ -1,0 +1,18 @@
+
+== Setup
+
+[source,bash]
+.Get the trivia code base
+----
+cd /source/code/
+git clone https://github.com/jbrains/trivia
+cd trivia
+----
+
+[source,bash]
+.Some useful git commands
+----
+git status                       #list uncommited changes
+git commit -am "commit message"  #commit local changes
+git reset --hard HEAD            #reset to last commit
+----
