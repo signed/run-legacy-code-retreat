@@ -29,5 +29,6 @@ Maybe you need to make small changes to open those seems (be careful)
 - Mature systems that do not change that often anymore
 - If you have output you can check (Test seams)
 - Any output you can diff
+- http://wiki.c2.com/?SoftwareSeam
 
 Its a safety net, not a parachute.
