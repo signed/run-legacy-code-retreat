@@ -16,3 +16,8 @@ git status                       #list uncommited changes
 git commit -am "commit message"  #commit local changes
 git reset --hard HEAD            #reset to last commit
 ----
+
+[NOTE.speaker]
+--
+* Any questions?
+--

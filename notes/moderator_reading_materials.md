@@ -45,3 +45,5 @@ make the code testable
 -> pure functions
 
 Blackbox sessions -> Whitebox sessions
+
+prepare something on how to pair participants in case its not happening on its own

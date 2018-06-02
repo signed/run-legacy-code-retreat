@@ -8,6 +8,12 @@
 --
 . Welcome everybody
 . Thanks to the sponsors
+. Introduce the location
+.. restrooms
+.. off limits areas
+.. internet access
+.. beverages
+.. food
 --
 
 include::{slides}/10 today.adoc[]

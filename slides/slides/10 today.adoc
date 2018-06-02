@@ -11,6 +11,32 @@
 * keep your end to end characterization test
 --
 
+=== How will the day look like
+
+* 30 min introduction
+* 3 morning sessions
+* 60 min lunch
+* 3 afternoon sessions
+* 30 min retrospective covering the whole day
+
+=== A session consists of ...
+
+pick a new pair partner for each session
+
+* ~5 min introduction of a technique/goal
+* ~40 min of pair programming
+* ~10 min retrospective with the whole group
+* ~5 min break
+
+[NOTE.speaker]
+--
+* who has experience with pair programming?
+* who knows what the idea behind pair programming is?
+* if needed, we'll make adjustments
+* introduce the facilitators that act as product owner, domain expert and contact person
+* move around the room and answer you questions, looking at your code, giving hints
+--
+
 === The goals of the day
 
 * learn from each other
@@ -22,20 +48,4 @@
 --
 Whatever you do, do what you don't normally do!
 At least for one person in the pair.
---
-
-=== How will the day look like
-
-* run 6 sessions
-* a session consists of
-** ~5min introduction of a technique/goal
-** ~40min of pair programming
-** ~10min retrospective with the whole group
-** ~5min break
-* Retrospective over the whole day
-
-[NOTE.speaker]
---
-* who has experience with pair programming?
-* who knows what the idea behind pair programming is?
 --
