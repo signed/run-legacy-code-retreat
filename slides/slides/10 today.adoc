@@ -1,22 +1,4 @@
-
-== The goals of the day
-
-* experiment
-* deliberate practice
-* learn from each other
-
-* Better introduce the exercises
-
-=== How will the day look like
-* run 6 sessions
-* a session consists of
-** ~5min Introduction of a technique
-** ~40min of pair programming
-** ~10min retrospective with the whole group
-** ~5min break
-* Retrospective over the whole day
-
-=== Legacy Code Retreat
+== Legacy Code Retreat
 - Like a Code Retreat but with existing code
 - Introduced in 2012 by https://twitter.com/jbrains[J.B. Rainsberger]
 - http://blog.adrianbolboaca.ro/2014/04/legacy-coderetreat/[Session proposals^] from https://twitter.com/adibolb[Adrian Bolboaca^]
@@ -28,6 +10,27 @@
 
 - keep your end to end characterization test
 --
+
+=== The goals of the day
+
+* learn from each other
+* experiment, get outside your comfort zone
+* deliberate practice
+
+[NOTE.speaker]
+--
+* no pressure to complete something
+--
+
+=== How will the day look like
+* run 6 sessions
+* a session consists of
+** ~5min introduction of a technique/goal
+** ~40min of pair programming
+** ~10min retrospective with the whole group
+** ~5min break
+* Retrospective over the whole day
+
 === Goal of Today
 
 Whatever you do, do what you don't normally do!
