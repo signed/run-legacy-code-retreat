@@ -1,9 +1,11 @@
 
-=== Materials
-==== Books
+== Materials
+
+* http://blog.adrianbolboaca.ro/2014/04/legacy-coderetreat/[Adrian Bolboaca] 16 exercises on legacy code for the trivia code base
+* https://github.com/sandromancuso/trip-service-kata[Trip Service Kata^] by https://twitter.com/sandromancuso[Sandro Mancuso^] with 80 min commentary walkthrough refactorings.
+
+=== Books
+
 * https://www.goodreads.com/book/show/44936.Refactoring
 * https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code
 * https://www.goodreads.com/book/show/85041.Refactoring_to_Patterns
-==== Webcasts
-* http://blog.adrianbolboaca.ro/2014/04/legacy-coderetreat/[Adrian Bolboaca] 16 exercises on legacy code
-* https://github.com/sandromancuso/trip-service-kata[Trip Service Kata^] by https://twitter.com/sandromancuso[Sandro Mancuso^] with 80 min commentary walkthrough refactorings.
