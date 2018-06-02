@@ -1,3 +1,4 @@
+
 == Basic rules of refactoring
 
 * Extract till you drop

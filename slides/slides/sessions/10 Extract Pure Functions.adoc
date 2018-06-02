@@ -1,3 +1,4 @@
+
 == Extract Pure Functions
 
 http://blog.adrianbolboaca.ro/2015/02/extract-pure-functions/[extract pure functions]
