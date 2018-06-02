@@ -3,8 +3,12 @@
 :slides: .
 :imagedir: ../images
 = Legacy Code Retreat
+[NOTE.speaker]
+--
+. Welcome everybody
+. Thanks to the sponsors
+--
 
-include::{slides}/05 hello.adoc[]
 include::{slides}/10 today.adoc[]
 
 include::{slides}/sessions/01 readthecode.adoc[]
