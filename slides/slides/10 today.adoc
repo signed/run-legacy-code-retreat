@@ -17,14 +17,17 @@
 * Retrospective over the whole day
 
 === Legacy Code Retreat
-- Introduced in 2012 by J.B. Rainsberger https://twitter.com/jbrains
-- Session proposals from Adrian Bolboaca http://blog.adrianbolboaca.ro/2014/04/legacy-coderetreat/
-- keep your end to end characterization test
+- Like a Code Retreat but with existing code
+- Foc
+- Introduced in 2012 by https://twitter.com/jbrains[J.B. Rainsberger]
+- http://blog.adrianbolboaca.ro/2014/04/legacy-coderetreat/[Session proposals^] from https://twitter.com/adibolb[Adrian Bolboaca^]
 
 [NOTE.speaker]
 --
 * Who has been on a code retreat?
 * Who knows what legacy code is?
+
+- keep your end to end characterization test
 --
 === Goal of Today
 
