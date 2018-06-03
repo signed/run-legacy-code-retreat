@@ -19,6 +19,7 @@ git reset --hard HEAD            #reset to last commit
 
 [NOTE.speaker]
 --
+* Pick your language from one of the sub directories∆
 * Any questions?
 --
 
