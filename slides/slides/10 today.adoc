@@ -21,12 +21,12 @@
 
 === A session consists of ...
 
-pick a new pair partner for each session
-
 * ~5 min introduction of a technique/goal
 * ~40 min of pair programming
 * ~10 min retrospective with the whole group
 * ~5 min break
+
+pick a new pair partner for each session
 
 [NOTE.speaker]
 --
