@@ -9,8 +9,8 @@
 ** make small commits with descriptive commit messages
 
 === Constraints
-
 * new code is developed test first
 * production code not covered by tests -> no manual changes
 * not possible to cover -> automated refactorings to open a test seam
 * untestable code can be adapted using as little changes as possible to make it testable (high risk)
+* Follow the constraints of the session
