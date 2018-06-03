@@ -32,3 +32,6 @@ git remote add gold -t goldenmaster https://github.com/signed/trivia.git
 git fetch gold
 git merge gold/goldenmaster
 ----
+* Java
+* Groovy
+* Kotlin
