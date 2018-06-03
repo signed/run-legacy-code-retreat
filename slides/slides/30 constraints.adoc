@@ -11,6 +11,6 @@
 === Constraints
 
 * new code is developed test first
-* product code not covered by tests -> no manual changes
+* production code not covered by tests -> no manual changes
 * not possible to cover -> automated refactorings to open a test seam
 * untestable code can be adapted using as little changes as possible to make it testable (high risk)
