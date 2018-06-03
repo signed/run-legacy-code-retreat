@@ -8,7 +8,7 @@ before
 ***
 During the week
 1. use main method to generate golden master data  (http://blog.thecodewhisperer.com/permalink/how-not-to-write-golden-master-tests)
-
+1. Look into gist to share urls during the event
 
 
 ***
