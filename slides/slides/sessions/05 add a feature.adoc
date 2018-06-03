@@ -1,7 +1,7 @@
 
 == Add a feature
 
-[quote, Kent Beck, 'https://twitter.com/kentbeck/status/250733358307500032[25 Sep 2012 on twitter ]']
+[quote, 'https://twitter.com/kentbeck/status/250733358307500032[Kent Beck^]']
 ____
 for each desired change, make the change easy (warning: this may be hard), then make the easy change
 ____
