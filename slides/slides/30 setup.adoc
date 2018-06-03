@@ -21,3 +21,14 @@ git reset --hard HEAD            #reset to last commit
 --
 * Any questions?
 --
+
+=== Stock Golden Master
+
+[source,bash]
+.Use a prepared Goldenmaster
+----
+cd /source/code/trivia
+git remote add gold -t goldenmaster https://github.com/signed/trivia.git
+git fetch gold
+git merge gold/goldenmaster
+----
