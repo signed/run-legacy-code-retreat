@@ -1,5 +1,64 @@
 
 == Extract Pure Functions
 
-http://blog.adrianbolboaca.ro/2015/02/extract-pure-functions/[extract pure functions]
+[quote, 'https://sites.google.com/site/unclebobconsultingllc/one-thing-extract-till-you-adrop[Robert C. Martin^]']
+____
+Extract till you just can’t extract any more.
+Extract till you drop.
+____
+
+[NOTE.speaker]
+--
+* http://blog.adrianbolboaca.ro/2015/02/extract-pure-functions/[extract pure functions^]
+* pick a method you want to refactor and start to extract methods from the deepest nesting because all dependencies are available/present
+--
+
+[%notitle]
+=== Result only depends on arguments
+[source,java]
+----
+public class ResultOnlyReliesOnThePassedArguments {
+
+    public static String GlobalState = "might change";
+
+    private String field = "on field level";
+
+    public String violatesBecauseOfGlobalState() {
+        return GlobalState + " appended";
+    }
+
+    public String violatesBecauseOfFieldAccess(){
+        return field + " appended";
+    }
+
+    public String pure(String input) {
+        return input + " appended";
+    }
+}
+----
+
+[%notitle]
+=== Has no observable side effects
+
+[source,java]
+----
+public class NoSideEffects {
+
+    public String withSideEffects(String input){
+        String result = "transformed " + input;
+        System.out.println(result);
+        return result;
+    }
+
+    public String stillWithSideEffects(String input){
+        String result = transformationWithoutSideEffects(input);
+        System.out.println(result);
+        return result;
+    }
+
+    private String transformationWithoutSideEffects(String input) {
+        return "transformed " + input;
+    }
+}
+----
 
