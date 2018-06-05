@@ -3,3 +3,27 @@
 Make code more readable
 
 === Guard Clauses
+
+[source,java]
+.before
+----
+public Optional<String> before(String input) {
+    if (null != input) {
+        return Optional.of("<" + input + ">");
+    } else {
+        return Optional.empty();
+    }
+}
+----
+
+[source,java]
+.after
+----
+public Optional<String> after(String input) {
+    if (null == input) {
+        return Optional.empty();
+    }
+    return Optional.of("<" + input + ">");
+}
+----
+
