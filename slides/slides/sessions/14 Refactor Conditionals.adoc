@@ -27,3 +27,39 @@ public Optional<String> after(String input) {
 }
 ----
 
+
+=== Simplified Returns
+[source,java]
+.before
+----
+public boolean before(int input) {
+    if (input > 7) {
+        return false;
+    }
+    return true;
+}
+----
+
+[source,java]
+.after
+----
+public boolean after(int input) {
+    return input <= 7;
+}
+----
+
+=== Template
+[source,java]
+.before
+----
+----
+
+[source,java]
+.after
+----
+----
+
+
+
+
+
