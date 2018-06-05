@@ -10,4 +10,5 @@ ____
 --
 * changed penalty box rules
 * write game output to file
+* translate the game to another language
 --
