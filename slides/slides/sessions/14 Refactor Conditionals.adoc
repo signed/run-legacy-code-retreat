@@ -1,6 +1,23 @@
 
 == Refactor Conditionals
-Make code more readable
+[source,java]
+.before
+----
+public boolean before(int input) {
+    if (input > 7) {
+        return false;
+    }
+    return true;
+}
+----
+
+[source,java]
+.after
+----
+public boolean after(int input) {
+    return input <= 7;
+}
+----
 
 === Guard Clauses
 
@@ -27,36 +44,34 @@ public Optional<String> after(String input) {
 }
 ----
 
-
-=== Simplified Returns
+=== Decompose
 [source,java]
-.before
 ----
-public boolean before(int input) {
-    if (input > 7) {
-        return false;
+public void before(LocalDate input) {
+    if (input.isBefore(input.withMonth(6).withDayOfMonth(22)) ||
+        input.isAfter(input.withMonth(9).withDayOfMonth(23))) {
+        //do something
+        return;
     }
-    return true;
+
+    //do something else
+    return;
 }
 ----
 
 [source,java]
-.after
 ----
-public boolean after(int input) {
-    return input <= 7;
+public void after(LocalDate input) {
+    LocalDate startOfSummer = input.withMonth(6).withDayOfMonth(22);
+    LocalDate endOfSummer = input.withMonth(9).withDayOfMonth(23);
+    if (input.isBefore(startOfSummer) || input.isAfter(endOfSummer)) {
+        //do something
+        return;
+    }
+
+    //do something else
+    return;
 }
-----
-
-=== Template
-[source,java]
-.before
-----
-----
-
-[source,java]
-.after
-----
 ----
 
 
