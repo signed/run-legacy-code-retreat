@@ -44,6 +44,11 @@ public Optional<String> after(String input) {
 }
 ----
 
+[NOTE.speaker]
+--
+* no else branches at all!
+--
+
 === Decompose
 [source,java]
 ----

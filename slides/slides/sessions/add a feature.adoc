@@ -8,7 +8,8 @@ ____
 
 [NOTE.speaker]
 --
+* translate the game to another language
+* Game board of different size and category layout
 * changed penalty box rules
 * write game output to file
-* translate the game to another language
 --

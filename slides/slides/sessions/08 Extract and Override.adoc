@@ -1,4 +1,0 @@
-
-== Extract and override
-http://blog.adrianbolboaca.ro/2015/01/extract-override/[extract and override] by Adrian Bolboaca
-

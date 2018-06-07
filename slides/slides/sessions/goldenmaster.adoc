@@ -18,8 +18,6 @@ Why Not to change legacy code
 - I would like to see nicer code
 - I want to update to newest framework
 
-A safety net is not a parachute.
-
 http://blog.adrianbolboaca.ro/2015/02/extract-class/
 --
 
@@ -46,3 +44,34 @@ https://github.com/almondtools/testrecorder-examples
 image::{imagedir}/tumblr_ldm3xeJoMY1qcyph6o1_500.jpg[background, size=cover]
 --
 
+=== Capture console output
+- Run the game with the GameRunner and capture the output
+- Write output to file
+- Execute GameRunner again and compare with file content
+- Run multiple games to get a decent coverage
+
+-> A safety net is not a parachute!
+
+[NOTE.speaker]
+--
+* Benefit: you do not have to change the production code
+* Benefit: you do not need to understand the code
+* keep your golden master tests
+--
+
+=== Stock Golden Master
+
+[source,bash]
+----
+cd /source/code/trivia
+git remote add gold -t goldenmaster https://github.com/signed/trivia.git
+git fetch gold
+git merge gold/goldenmaster
+----
+
+[grid="none"]
+|===
+
+|Java |Groovy |Kotlin
+|C# ||
+|===

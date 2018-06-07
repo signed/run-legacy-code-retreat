@@ -19,20 +19,6 @@ git reset --hard HEAD            #reset to last commit
 
 [NOTE.speaker]
 --
-* Pick your language from one of the sub directories∆
+* Pick your language from one of the sub directories
 * Any questions?
 --
-
-=== Stock Golden Master
-
-[source,bash]
-----
-cd /source/code/trivia
-git remote add gold -t goldenmaster https://github.com/signed/trivia.git
-git fetch gold
-git merge gold/goldenmaster
-----
-* Java
-* Groovy
-* Kotlin
-* C#

@@ -9,6 +9,7 @@ ____
 
 [NOTE.speaker]
 --
+* one function should do only one thing.
 * http://blog.adrianbolboaca.ro/2015/02/extract-pure-functions/[extract pure functions^]
 * pick a method you want to refactor and start to extract methods from the deepest nesting because all dependencies are available/present
 --

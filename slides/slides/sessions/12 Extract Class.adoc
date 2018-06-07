@@ -5,3 +5,4 @@ http://blog.adrianbolboaca.ro/2015/02/extract-class/
 
 - move all player related message generation into its own class
 - translate game output to German
+- fix the message related bug.

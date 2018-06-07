@@ -1,4 +1,6 @@
 
 == Dependency inversion
 
-
+http://blog.adrianbolboaca.ro/2014/12/dependency-inversion
+High level modules should not depend on low level implementation details, depend on abstractions instead aka Interfaces
+Inject a Console instead of using System.out.println();

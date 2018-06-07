@@ -70,13 +70,6 @@ https://cubscouts.org/wp-content/uploads/2015/04/Earth-Day-Scouts11.jpg
 *** modules
 *** names
 *** ...
-* Simplify boolean expressions using Explain Variable
-** http://blog.adrianbolboaca.ro/2015/05/explain-variable/
-** But before that we need to understand really well what the code does. Misleading code is a lot worse than hard to read code.
-* Simplify conditionals
-** Refactor Conditionals by Decomposing Conditional
-** Guard Clauses
-** No else cases
 * extract methods with good names
 * Get rid of or at least reduce the visible scope of local variables in methods
 

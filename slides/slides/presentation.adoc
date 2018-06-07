@@ -20,15 +20,15 @@ include::{slides}/10 today.adoc[]
 include::{slides}/30 constraints.adoc[]
 include::{slides}/40 setup.adoc[]
 
-include::{slides}/sessions/01 readthecode.adoc[]
-include::{slides}/sessions/03 goldenmaster.adoc[]
-include::{slides}/sessions/10 Extract Pure Functions.adoc[]
+include::{slides}/sessions/readthecode.adoc[]
+include::{slides}/sessions/goldenmaster.adoc[]
+include::{slides}/sessions/extract pure functions.adoc[]
 
 include::{slides}/50 lunch.adoc[]
 
-include::{slides}/sessions/14 Refactor Conditionals.adoc[]
-include::{slides}/sessions/13 Unit Testing on Legacy Code.adoc[]
-include::{slides}/sessions/05 add a feature.adoc[]
+include::{slides}/sessions/refactor conditionals.adoc[]
+include::{slides}/sessions/add a feature.adoc[]
+include::{slides}/sessions/confine primitives.adoc[]
 
 include::{slides}/80 closing circle.adoc[]
 include::{slides}/90 materials.adoc[]
