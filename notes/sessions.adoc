@@ -37,6 +37,23 @@ https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design[four elemen
 - extract functions that do not have side effects
 - same arguments -> same result
 
+=== Confine primitives
+- Identify domain concepts that deserve there own class
+- Best done inside out using introduce variables
+- provide refactoring anchor and conversion methods
+-- toPrimitive()
+-- createDomainConceptFrom(primitive)
+- new classes tend to attract functionality that is already there but feels to be in the wrong place
+-- All those *Util classes are good candidates
+
+=== Twist at the end
+- Do not throw away your code, one of the pairs stays with the code the other one moves to somebody else
+- Do fix a bug
+- Boyscouts rule, clean up duplication
+- Fight primitives
+
+=== From Zero to system tests
+
 
 === The Boy Scout Rule
 https://www.informit.com/articles/article.aspx?p=1235624&seqNum=6
