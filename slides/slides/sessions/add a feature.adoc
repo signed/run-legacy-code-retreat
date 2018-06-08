@@ -1,8 +1,5 @@
 
 == Add a feature
-
-Game Board with 24 fields for 8 players
-
 [quote, 'https://twitter.com/kentbeck/status/250733358307500032[Kent Beck^]']
 ____
 for each desired change, make the change easy (warning: this may be hard), then make the easy change
@@ -10,8 +7,22 @@ ____
 
 [NOTE.speaker]
 --
-* translate the game to another language
 * Game board of different size and category layout
+* translate the game to another language
 * changed penalty box rules
 * write game output to file
+--
+
+=== Triva for 8 players
+- board has 24 fields
+- categories are assigned to the fields as follows
+  . Pop
+  . Rock
+  . Science
+  . Sports
+- playing classic Trivia should still be possible
+
+[NOTE.speaker]
+--
+* focus on one change at the time
 --
