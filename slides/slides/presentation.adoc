@@ -37,6 +37,7 @@ include::{slides}/sessions/confine primitives.adoc[]
 include::{slides}/sessions/be a girl boy scout.adoc[]
 include::{slides}/sessions/extract class.adoc[]
 include::{slides}/sessions/dependency inversion.adoc[]
+include::{slides}/sessions/zero to systemtests.adoc[]
 
 
 include::{slides}/90 materials.adoc[]
