@@ -16,6 +16,7 @@
 .. food
 --
 
+include::{slides}/05 sponsor.adoc[]
 include::{slides}/10 today.adoc[]
 include::{slides}/30 constraints.adoc[]
 include::{slides}/40 setup.adoc[]
