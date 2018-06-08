@@ -32,7 +32,8 @@ Maybe you need to make small changes to open those seams (be careful!)
 
 [NOTE.speaker]
 --
-Potential seam
+Potential seams
+
 * Logging
 * Events
 * Database
