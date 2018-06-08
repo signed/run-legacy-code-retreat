@@ -25,4 +25,7 @@ ____
 [NOTE.speaker]
 --
 * focus on one change at the time
+* bend the existing code into place so that implementing the new feature becomes easy
+* Start with new Board?
+* Extract board first?
 --
