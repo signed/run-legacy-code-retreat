@@ -1,9 +1,6 @@
 ***
 before
-
-1. slides to describe sessions
 1. pick session verification
-1. Collect Golden Masters for different languages
 
 ***
 During the week
