@@ -56,6 +56,7 @@ image::{imagedir}/tumblr_ldm3xeJoMY1qcyph6o1_500.jpg[background, size=cover]
 --
 * Benefit: you do not have to change the production code
 * Benefit: you do not need to understand the code
+* Blackbox testing strategy
 * keep your golden master tests
 --
 
