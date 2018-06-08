@@ -3,10 +3,10 @@
 
 Leave the campground cleaner than you found it.
 
-After we had our safety net of golden masters in place we started refactoring the codebase by simply replacing
-* magic numbers with constants
+* replace magic numbers with constants
 * extract code into explanatory variables
-* extracting methods and pure functions and other techniques to better.
+* properly naming methods and variables
+* extract short methods
 
 The goal is to better reveal the intent of the code
 

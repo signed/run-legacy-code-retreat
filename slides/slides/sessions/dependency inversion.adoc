@@ -1,8 +1,12 @@
 
 == Dependency inversion
-
-http://blog.adrianbolboaca.ro/2014/12/dependency-inversion
 High level modules should not depend on low level implementation details, depend on abstractions instead aka Interfaces
-Inject a Console instead of using System.out.println();
-- Introduce Display/Console
-- Write output to file to be able to analyze the past games
+
+* Inject a Console instead of using System.out.println();
+* Introduce Display/Console
+* Write output to file to be able to analyze the past games
+
+[NOTE.speaker]
+--
+http://blog.adrianbolboaca.ro/2014/12/dependency-inversion
+--
