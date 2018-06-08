@@ -21,17 +21,25 @@ Why Not to change legacy code
 http://blog.adrianbolboaca.ro/2015/02/extract-class/
 --
 
-
 === Potential Testing Seams
+
+[quote, Michael Feathers, 'Working Effectively with Legacy Code']
+____
+A Seam is a place where you can alter behavior in your program without editing in that place.
+____
+
+Maybe you need to make small changes to open those seams (be careful!)
+
+[NOTE.speaker]
+--
+Potential seam
 * Logging
 * Events
 * Database
 * Calls to external systems
+* pre processor
+* linker magic
 
-Maybe you need to make small changes to open those seems (be careful)
-
-[NOTE.speaker]
---
 When to use?
 - Mature systems that do not change that often anymore
 - If you have output you can check (Test seams)
