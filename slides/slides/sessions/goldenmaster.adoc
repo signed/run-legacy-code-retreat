@@ -82,6 +82,6 @@ git merge gold/goldenmaster
 [grid="none"]
 |===
 
-|Java |Groovy |Kotlin
-|C# |javascript|
+|Java|Groovy|Kotlin|C#|
+|javascript|php|ruby|python|objective c
 |===
