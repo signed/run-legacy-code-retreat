@@ -8,7 +8,19 @@
 ** run your tests often
 ** make small commits with descriptive commit messages
 
+=== A word on Characterization tests
+* Assumption: what the current code does is correct
+* The current behaviour should not change unless explicitly requested
+* Identify characteristic system use and lock it down with an automated test
+
+You do not have to delete you characterization tests.
+[NOTE.speaker]
+--
+http://wiki.c2.com/?CharacterizationTest
+--
+
 === Constraints
+
 * new code is developed test first
 * production code not covered by tests -> no manual changes
 * not possible to cover -> automated refactorings to open a test seam

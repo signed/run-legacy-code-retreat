@@ -1,4 +1,9 @@
-== How does it work?
+== Why is this important
+
+https://jvaneyck.wordpress.com/2015/07/27/legacy-code-retreat/
+
+
+=== How does it work?
 - Like a Code Retreat but with existing code
 - Introduced in 2012 by https://twitter.com/jbrains[J.B. Rainsberger]
 - http://blog.adrianbolboaca.ro/2014/04/legacy-coderetreat/[Session proposals^] from https://twitter.com/adibolb[Adrian Bolboaca^]
