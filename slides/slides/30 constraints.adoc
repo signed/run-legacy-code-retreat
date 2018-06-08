@@ -14,3 +14,14 @@
 * not possible to cover -> automated refactorings to open a test seam
 * untestable code can be adapted using as little changes as possible to make it testable (high risk)
 * Follow the constraints of the session
+
+[NOTE.speaker]
+--
+For today, we as a moderator/facilitator take the role of
+* product owner
+* domain expert
+* customer
+* trainer
+* former developer
+Direct your questions towards us.
+--

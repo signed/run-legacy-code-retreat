@@ -1,8 +1,10 @@
 
 == Meet the Code
 
-Try to understand the code
+Try to understand the domain from the code
 
+* Get to know your problem domain.
+* Use the application.
 * Where to start?
 * How to explore?
 * How to codify the learnings?
@@ -21,6 +23,8 @@ To two
 * What tools does your IDE provide to read code?
 * Explain the code to each other to get a shared understanding.
 * Maybe take notes of interesting, strange or unexpected things you notice.
+
+https://jvaneyck.wordpress.com/2015/09/07/starting-in-an-ongoing-software-project/[starting-in-an-ongoing-software-project]
 --
 
 === Active reading

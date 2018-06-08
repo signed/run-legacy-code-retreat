@@ -1,0 +1,9 @@
+
+== Be a boy/girl scout
+
+Leave the campground cleaner than you found it.
+
+Leave the campground cleaner than you found it.
+
+
+* try to keep clean up commits separate from usual development
