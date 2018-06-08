@@ -1,0 +1,4 @@
+
+
+== Zero to System Tests
+- Sandro: use the shortest flow through the methods for you first test, 2nd longest flow , ... Last on should be the deepest, because it needs the most data to setup

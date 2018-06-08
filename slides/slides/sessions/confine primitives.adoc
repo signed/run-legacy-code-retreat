@@ -2,7 +2,7 @@
 == Confine primitives
 * Identify domain concepts that deserve there own class
 * Best done inside out using introduce parameter
-* provide refactoring anchor and conversion methods
+* provide conversion methods
 ** toPrimitive()
 ** createDomainConceptFrom(primitive)
 * new classes tend to attract functionality that is already there but feels to be in the wrong place

@@ -3,11 +3,15 @@
 
 Leave the campground cleaner than you found it.
 
-Leave the campground cleaner than you found it.
+After we had our safety net of golden masters in place we started refactoring the codebase by simply replacing
+* magic numbers with constants
+* extract code into explanatory variables
+* extracting methods and pure functions and other techniques to better.
 
+The goal is to better reveal the intent of the code
 
+[NOTE.speaker]
+--
 * try to keep clean up commits separate from usual development
-
-After we had our safety net of golden masters in place we started refactoring the codebase by simply replacing magic numbers with constants and extracting code into explanatory variables. We moved over to extracting methods and pure functions and other techniques to better reveal the intent of the code. It’s amazing how a few well-chosen names can increase a program’s understandability.
-
-https://jvaneyck.wordpress.com/2015/07/27/legacy-code-retreat/
+* https://jvaneyck.wordpress.com/2015/07/27/legacy-code-retreat/
+--

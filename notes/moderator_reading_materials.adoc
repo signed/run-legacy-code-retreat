@@ -9,8 +9,12 @@
 - http://www.github.com/jbrains/trivia
 - https://github.com/emilybache/GildedRose-Refactoring-Kata
 
-== Previous legacy code retreats
+== General Goals for sessions
+- Make the sessions independent form each other
+- Find and overarching goal (fix a bug, add a feature) and compare different techniques how they help to achieve this goal.
+- Provide a Why/Motivation/Business Goal for each iteration
 
+== Previous legacy code retreats
 === 2nd One
 JB facilitated the event like you could find in [here](http://legacycoderetreat.typepad.com/blog/2011/11/how-i-run-legacy-code-retreat.html), with a lot of details.
 ==== Sessions 

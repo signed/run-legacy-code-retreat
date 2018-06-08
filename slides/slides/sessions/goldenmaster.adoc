@@ -39,18 +39,6 @@ Potential seam
 * Calls to external systems
 * pre processor
 * linker magic
-
-When to use?
-- Mature systems that do not change that often anymore
-- If you have output you can check (Test seams)
-- Any output you can diff
-- http://wiki.c2.com/?SoftwareSeam
-
-available tooling in java for automatic generation of characterization tests:
-https://github.com/almondtools/testrecorder
-https://github.com/almondtools/testrecorder-examples
-https://github.com/approvals
-image::{imagedir}/tumblr_ldm3xeJoMY1qcyph6o1_500.jpg[background, size=cover]
 --
 
 === Capture console output
@@ -85,3 +73,5 @@ git merge gold/goldenmaster
 |Java|Groovy|Kotlin|C#|
 |javascript|php|ruby|python|objective c
 |===
+
+

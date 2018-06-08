@@ -69,5 +69,56 @@ Structure changes vs. Functional changes
 === What makes legacy code hard to test
 static dependencies are the problem, meaning we can not exchange them in our tests
 
+How to tackle this:
+. dependency Injection
+.. pass as arguments
+.. Constructor / passed to the method under test
+.. pure functions
+.. setters
+. Extend and override
+. Use fancy power mocking tools.
+
 
 Road to happiness:  eadding black box system tests to create a safety net -> characterization tests -> component tests -> unit tests
+
+
+=== Notes on golden master
+When to use?
+- Mature systems that do not change that often anymore
+- If you have output you can check (Test seams)
+- Any output you can diff
+- http://wiki.c2.com/?SoftwareSeam
+
+available tooling in java for automatic generation of characterization tests:
+https://github.com/almondtools/testrecorder
+https://github.com/almondtools/testrecorder-examples
+https://github.com/approvals
+image::{imagedir}/tumblr_ldm3xeJoMY1qcyph6o1_500.jpg[background, size=cover]
+
+==== Goldenmaster
+- focus on the outputs
+- only try to understand as much of the code to be able to run deterministic tests
+- learning: this kind of tests can be setup without deep system / domain knowledge
+
+
+=== Notes on The Boy Scout Rule
+https://www.informit.com/articles/article.aspx?p=1235624&seqNum=6
+https://cubscouts.org/wp-content/uploads/2015/04/Earth-Day-Scouts11.jpg
+
+* Spot duplication
+** The rule of three says that it is a good idea to extract these elements, with the purpose to minimize the duplication, only when you spot them three times.
+*** duplication can be found in
+*** magic constants
+*** variables
+*** code blocks
+*** methods
+*** classes
+*** modules
+*** names
+*** ...
+* extract methods with good names
+* Get rid of or at least reduce the visible scope of local variables in methods
+
+
+- http://blog.adrianbolboaca.ro/2015/02/refactoring-rule-of-three/
+- Make the code you think is duplication look similar to validate that is actually the same code

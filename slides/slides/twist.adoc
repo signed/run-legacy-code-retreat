@@ -1,0 +1,9 @@
+[%notitle]
+== Twist
+Do not throw away your code!
+
+Commit as is.
+
+
+===  Twist for next Session
+One of you stays with the code you just worked on, the other one moves to another code base.
