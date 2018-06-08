@@ -1,0 +1,20 @@
+
+== Fix a bug
+[horizontal]
+TRIVIA-34:: Wrong output
+
+After giving the right answer in some cases the printed message is wrong.
+We see `Answer was correct!!!!` but we are expecting to get `Answer was corrent!!!!`.
+
+Please fix.
+
+Surprised?
+
+=== Strategy
+. Reproduce with system level test
+. Isolate the area you want to change to make it testable
+. write unit tests to document the current behaviour
+- Write failing test that forces you to make the fix
+- Make the fix; Ensure the system test and the 1st unit test are failing
+- Delete the 1st unit test
+- Adjust the the expectation in the system test
