@@ -18,4 +18,4 @@ Surprised?
 . Write failing test that forces you to make the fix
 . Make the fix; Ensure the system test and the 1st unit test are failing
 . Delete the 1st unit test
-. Adjust the the expectation in the system test
+. Adjust the expectation in the system test
