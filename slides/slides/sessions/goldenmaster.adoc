@@ -49,6 +49,7 @@ When to use?
 available tooling in java for automatic generation of characterization tests:
 https://github.com/almondtools/testrecorder
 https://github.com/almondtools/testrecorder-examples
+https://github.com/approvals
 image::{imagedir}/tumblr_ldm3xeJoMY1qcyph6o1_500.jpg[background, size=cover]
 --
 
@@ -82,5 +83,5 @@ git merge gold/goldenmaster
 |===
 
 |Java |Groovy |Kotlin
-|C# ||
+|C# |javascript|
 |===

@@ -41,3 +41,33 @@ Surviving Legacy Code with Golden Master and Sampling
 ____
 Legacy code is valuable code that we feel afraid to change.
 ____
+
+
+=== What is important when working with legacy code
+1. Every change needs a Why and a stopping point
+1. Focus on on thing at the time
+1. Reading Code
+   1. Active code reading (rename )
+1. Executing Code
+1. Get test coverage
+1. Refactoring
+   1. Mikado method https://mikadomethod.wordpress.com/
+1. Take small steps
+1. Run your tests
+1. Commit often
+1. Make sure that your test are failing in the way you expect them to
+1. Use automated refactorings where possible
+   1. Know their limitations/quirks/bugs
+1. Get your dependencies under control
+   1. Dependency inversion
+   1. Dependency injection
+   1. Extract and override
+   1. Power Mocking tools
+
+Structure changes vs. Functional changes
+
+=== What makes legacy code hard to test
+static dependencies are the problem, meaning we can not exchange them in our tests
+
+
+Road to happiness:  adding black box system tests to create a safety net -> characterization tests -> component tests -> unit tests

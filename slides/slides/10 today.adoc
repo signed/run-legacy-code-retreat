@@ -1,4 +1,6 @@
 == Why is this important
+Practice techniques to change legacy code in a low stakes environment
+Its not about completing a task, its about practicing and learning
 
 https://jvaneyck.wordpress.com/2015/07/27/legacy-code-retreat/
 
@@ -48,6 +50,7 @@ pick a new pair partner for each session
 * experiment, get outside your comfort zone
 * deliberate practice
 * there is no pressure to get something done
+* make mistakes without consequences
 
 [NOTE.speaker]
 --
