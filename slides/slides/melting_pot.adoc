@@ -37,10 +37,6 @@ To me, legacy code is simply code without tests.
 ____
 
 Surviving Legacy Code with Golden Master and Sampling
-[quote, J. B. Rainsberger, 'http://blog.thecodewhisperer.com/permalink/surviving-legacy-code-with-golden-master-and-sampling']
-____
-Legacy code is valuable code that we feel afraid to change.
-____
 
 
 === What is important when working with legacy code

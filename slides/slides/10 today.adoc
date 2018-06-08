@@ -20,17 +20,36 @@
 --
 
 === Why is this important
-
-
-Practice techniques to change legacy code in a low stakes environment
-Its not about completing a task, its about practicing and learning
+[quote, 'http://blog.thecodewhisperer.com/permalink/[J. B. Rainsberger^]']
+____
+Legacy code is valuable code that we feel afraid to change.
+____
+Practice techniques to change legacy code in a low stakes environment.
 
 [NOTE.speaker]
 --
+* existing code more likely than greenfield
+* legacy code different mind and skill set
+* mistakes because of experimenting potentially expensive
 https://jvaneyck.wordpress.com/2015/07/27/legacy-code-retreat/
 --
 
-=== How does it work?
+=== Its about practicing and learning
+
+* learn from each other
+* experiment, get outside your comfort zone
+* deliberate practice
+* there is no pressure to get something done
+* make mistakes without consequences
+
+[NOTE.speaker]
+--
+* Whatever you do, do what you don't normally do!
+* At least for one person in the pair.
+* Its not about completing a task, its about practicing and learning
+--
+
+=== How do we practice?
 * Like a Code Retreat but with existing code
 ** pick a new pair partner for each session
 ** throw away your code after the session
@@ -43,18 +62,4 @@ https://jvaneyck.wordpress.com/2015/07/27/legacy-code-retreat/
 * Who has experience with pair programming?
 * Who knows what legacy code is?
 * keep your end to end characterization test
---
-
-=== The goals of the day
-
-* learn from each other
-* experiment, get outside your comfort zone
-* deliberate practice
-* there is no pressure to get something done
-* make mistakes without consequences
-
-[NOTE.speaker]
---
-Whatever you do, do what you don't normally do!
-At least for one person in the pair.
 --

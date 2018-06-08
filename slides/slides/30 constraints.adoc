@@ -13,7 +13,7 @@
 * The current behaviour should not change unless explicitly requested
 * Identify characteristic system use and lock it down with an automated test
 
-You do not have to delete you characterization tests.
+Keep your characterization tests between sessions.
 [NOTE.speaker]
 --
 http://wiki.c2.com/?CharacterizationTest
