@@ -29,11 +29,5 @@ http://wiki.c2.com/?CharacterizationTest
 
 [NOTE.speaker]
 --
-For today, we as a moderator/facilitator take the role of
-* product owner
-* domain expert
-* customer
-* trainer
-* former developer
-Direct your questions towards us.
+
 --

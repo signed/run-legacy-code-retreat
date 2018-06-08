@@ -15,8 +15,15 @@
 
 [NOTE.speaker]
 --
-* introduce the facilitators that act as product owner, domain expert and contact person
-* move around the room and answer you questions, looking at your code, giving hints
+For today, we as a moderator/facilitator take the role of
+
+* product owner
+* domain expert
+* customer
+* trainer
+* former developer
+
+Direct your questions towards us.
 --
 
 === Why is this important
