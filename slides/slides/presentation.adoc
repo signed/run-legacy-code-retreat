@@ -9,7 +9,7 @@
 . Welcome everybody
 --
 
-include::{slides}/05 sponsor.adoc[]
+//include::{slides}/05 sponsor.adoc[]
 include::{slides}/10 today.adoc[]
 include::{slides}/30 constraints.adoc[]
 include::{slides}/40 setup.adoc[]
@@ -28,8 +28,8 @@ include::{slides}/sessions/fix a bug.adoc[]
 include::{slides}/80 closing circle.adoc[]
 include::{slides}/90 materials.adoc[]
 
-include::{slides}/sessions/confine primitives.adoc[]
 include::{slides}/sessions/be a girl boy scout.adoc[]
+include::{slides}/sessions/confine primitives.adoc[]
 include::{slides}/sessions/extract class.adoc[]
 include::{slides}/sessions/dependency inversion.adoc[]
 include::{slides}/sessions/zero to systemtests.adoc[]

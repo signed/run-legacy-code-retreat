@@ -1,14 +1,5 @@
 
-== Recommendations
-
-* At least one person of the pair should know the language
-* Use version control
-* Practice Baby Steps
-** focus on one change at the time
-** run your tests often
-** make small commits with descriptive commit messages
-
-=== A word on Characterization tests
+== A word on Characterization tests
 * Assumption: what the current code does is correct
 * The current behaviour should not change unless explicitly requested
 * Identify characteristic system use and lock it down with an automated test
@@ -19,8 +10,15 @@ Keep your characterization tests between sessions.
 http://wiki.c2.com/?CharacterizationTest
 --
 
-=== Constraints
+=== Recommendations
+* At least one person of the pair should know the language
+* Use version control
+* Practice Baby Steps
+** focus on one change at the time
+** run your tests often
+** make small commits with descriptive commit messages
 
+=== Constraints
 * new code is developed test first
 * production code not covered by tests -> no manual changes
 * not possible to cover -> automated refactorings to open a test seam
