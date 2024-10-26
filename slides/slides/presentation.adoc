@@ -2,6 +2,7 @@
 :linkattrs:
 :slides: .
 :imagedir: ../images
+:customcss: ../styles/custom.css
 = Legacy Code Retreat
 
 [NOTE.speaker]
